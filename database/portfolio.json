@@ -1,0 +1,197 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Jasmine Kaur",
+    "contactNumber": "9876543210",
+    "email": "jasminekaur@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "",
+      "xdotcom": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "JasmineKaur-CV.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hey! I'm Jasmine.",
+    "introduction": "Market Research Analyst,Economic Research Analyst",
+    "description": "A detail-oriented Research Analyst specializing in market trends, data interpretation, and strategic insights. Passionate about transforming complex datasets into actionable business strategies. Skilled in quantitative and qualitative research methodologies, competitive analysis, and reporting."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740418464373",
+        "name": "Pandas",
+        "rating": 9
+      },
+      {
+        "id": "1740418454973",
+        "name": "Tableau",
+        "rating": 7.5
+      },
+      {
+        "id": "1740418435124",
+        "name": "Power BIPower BIPower BIPower BIPower BI",
+        "rating": 7
+      },
+      {
+        "id": "1740418479923",
+        "name": "Data Processing",
+        "rating": 8.5
+      },
+      {
+        "id": "1740418493740",
+        "name": "Risk Assessment",
+        "rating": 7.5
+      },
+      {
+        "id": "1740418511140",
+        "name": "Competitive Analysis",
+        "rating": 8
+      },
+      {
+        "id": "1740418518206",
+        "name": "TensorFlow",
+        "rating": 8
+      },
+      {
+        "id": "1740418533223",
+        "name": "Regression Analysis",
+        "rating": 8
+      },
+      {
+        "id": "1740489583060",
+        "name": "Github Actions",
+        "rating": 8
+      },
+      {
+        "id": "1740725880714",
+        "name": "abcd",
+        "rating": 8
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740415409476",
+        "text": "Earned the Certified Business Intelligence Analyst certification from Coursera in 2022, enhancing expertise in advanced data visualization and analytics.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740415416341",
+        "text": "Published a research paper in the International Journal of Business Studies (2020), exploring the impact of data analytics on investment decisions.",
+        "type": "other"
+      },
+      {
+        "id": "1740415425859",
+        "text": "Successfully completed the Google Data Analytics Certification (2020), gaining proficiency in SQL, statistical modeling, and data-driven decision-making.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740415435791",
+        "text": "Awarded the Best Market Research Report (2019) for an insightful industry analysis on the future of AI in business applications.",
+        "type": "award"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "2021 – Present",
+        "projectName": "Global Market Intelligence Platform",
+        "headline1": "Led a team of 5 research analysts, streamlining data collection and processing workflows.",
+        "headline2": "Conducted competitive benchmarking using Power BI and SQL, identifying growth opportunities across 7+ industries.",
+        "designation": "Senior Research Analyst",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "SQL, Power BI, Tableau, Pandas, NumPy,TensorFlow",
+        "companyName": "McKinsey & Company (Private Consulting Platform)",
+        "images": [
+          {
+            "fileName": "ra1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra1.png"
+          },
+          {
+            "fileName": "ra4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra4.png"
+          }
+        ]
+      },
+      {
+        "timeline": "2019 – 2021",
+        "projectName": "Data-Driven Decision Intelligence",
+        "headline1": "Led business intelligence initiatives, helping clients optimize strategy using statistical modeling.",
+        "headline2": "Conducted policy impact assessments for healthcare, finance, and tech sectors.",
+        "designation": "Research Analyst",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "regression analysis, hypothesis testing, competitive analysis, market trends, risk assessment, data collection, data processing",
+        "companyName": "Deloitte",
+        "images": [
+          {
+            "fileName": "ra2.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra2.jpeg"
+          },
+          {
+            "fileName": "ra3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra3.png"
+          },
+          {
+            "fileName": "ra5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra5.png"
+          }
+        ]
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2013 – 2017",
+        "courseName": "Bachelor’s in Economics",
+        "instituteName": "Delhi University",
+        "specializedIn": "Statistics, Microeconomics, Econometrics",
+        "yearPassout": "2017",
+        "headline1": "Published a paper on “The Impact of Inflation on Stock Market Volatility” in a reputed journal.",
+        "headline2": "Secured 2nd place in National Business Case Study Competition.",
+        "cgpa": "8.8",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "4"
+      },
+      {
+        "timeline": "2017 – 2019",
+        "courseName": "Master’s in Business Analytics",
+        "instituteName": "Indian Institute of Management (IIM), Bangalore",
+        "specializedIn": "Business Analytics, Data Science, Market Research",
+        "yearPassout": "2019",
+        "headline1": "Conducted an in-depth study on consumer behavior in the e-commerce sector.",
+        "headline2": "Won the IIM Research Excellence Award for outstanding thesis on \"Predictive Modeling for Business Growth.\"",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
+  }
+}
