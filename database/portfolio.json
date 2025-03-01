@@ -68,6 +68,11 @@
         "id": "1740489583060",
         "name": "Github Actions",
         "rating": 8
+      },
+      {
+        "id": "1740830855567",
+        "name": "heyy",
+        "rating": 7
       }
     ],
     "skillAnimationType": "moving-animation"
