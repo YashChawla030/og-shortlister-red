@@ -68,14 +68,9 @@
         "id": "1740489583060",
         "name": "Github Actions",
         "rating": 8
-      },
-      {
-        "id": "1740830912849",
-        "name": "heyy",
-        "rating": 7.5
       }
     ],
-    "skillAnimationType": "still-animation"
+    "skillAnimationType": "scale-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
