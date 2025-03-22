@@ -17,10 +17,10 @@ export const Hero = () => {
   return (
     <HeroEditableWithAuth
       isEditing={isEditing}
-      meteorHeadClassName="bg-red-500"
-      meteorTailClassName="bg-gradient-to-r from-red-500 to-transparent"
-      sparklesLightClassName="bg-gradient-to-r from-transparent via-red-500 to-transparent"
-      sparklesParticleColor="#ef4444"
+      meteorHeadClassName="bg-violet-500"
+      meteorTailClassName="bg-gradient-to-r from-violet-500 to-transparent"
+      sparklesLightClassName="bg-gradient-to-r from-transparent via-violet-500 to-transparent"
+      sparklesParticleColor="#8b5cf6"
       heroInfo={heroInfo}
       saveHeroInfo={saveHeroInfo}
       isLoading={isLoading}
